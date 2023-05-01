@@ -1,0 +1,9 @@
+.title {
+    font-size: 50px;
+}
+.statictic__list {
+    list-style: none;
+}
+.statistic__item {
+   text-transform: capitalize;
+}
